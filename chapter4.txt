@@ -1,1 +1,21 @@
 Hola prueba final.
+
+git config --global user.email "chrispsan@hotmail.com"
+git config --global user.name "Christian Sanchez"
+
+git log
+git status
+
+touch chapter4.txt
+code chapter4.txt 
+
+git add chapter1.txt
+git add .
+git commit -m "Chapter 4 added locally after romete git installation"
+git diff chapter2.txt
+git checkout chapter2.txt
+
+git remote add origin https://github.com/krustyec/Story.git
+git branch -M main
+git push -u origin main
+
