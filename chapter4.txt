@@ -19,3 +19,6 @@ git remote add origin https://github.com/krustyec/Story.git
 git branch -M main
 git push -u origin main
 
+git branch
+git branch alien-plot
+git checkout alien-plot
