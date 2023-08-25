@@ -21,3 +21,4 @@ git push -u origin main
 
 git branch
 git branch alien-plot
+git checkout alien-plot
